@@ -1,6 +1,6 @@
 ## 👋👩🏻‍💻Hi! Welcome to my GitHub Profile Page 🥰🎾🚴🏽‍♀️🏓
 
-👩🏻‍🔬I am a developer evangelist at [Twilio](https://twilio.com), studied computer science at [Bryn Mawr](cs.brynmawr.edu), and previously interned & wrote code at Twilio, [PubNub](pubnub.com), and [Vea Fitness](https://www.vealife.com/).
+👩🏻‍🔬I am a developer evangelist at [Twilio](https://twilio.com), studied computer science at [Bryn Mawr](cs.brynmawr.edu), and previously interned & wrote code at Twilio, [PubNub](https://pubnub.com), and [Vea Fitness](https://www.vealife.com/).
 
 👩🏻‍🎓🎓[Senior thesis](https://elizabethsiegle.github.io/thesis): developed a series of Django apps and corresponding iOS app to compare methods of teaching emotions to people on the Autism spectrum.
 
