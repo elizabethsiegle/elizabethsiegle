@@ -16,4 +16,4 @@
 - [Build a Twilio Video App in 9 Minutes](https://github.com/elizabethsiegle/twilioVideoWebChat9Mins) | [blog✍🏽](https://www.twilio.com/blog/build-a-video-app-javascript-twilio-cli-quickly)
 
 ## Let's connect online!
-[twitter🐦](twitter.com/lizziepika) | [instagram📸](instagram.com/lizziepika) | [linkedin👩🏻‍💼](linkedin.com/in/elsiegle) | [stackoverflow✍🏽](https://stackoverflow.com/users/5452371/lizziepika) | [twitch📹](https://twitch.tv/lizziepikachu) | [dev✍🏽](https://dev.to/lizziepika) | [storygraph📚](https://beta.thestorygraph.com/profile/49735a91-67e5-40aa-b949-9dd8a34a4328)
+[twitter🐦](https://twitter.com/lizziepika) | [instagram📸](instagram.com/lizziepika) | [linkedin👩🏻‍💼](linkedin.com/in/elsiegle) | [stackoverflow✍🏽](https://stackoverflow.com/users/5452371/lizziepika) | [twitch📹](https://twitch.tv/lizziepikachu) | [dev✍🏽](https://dev.to/lizziepika) | [storygraph📚](https://beta.thestorygraph.com/profile/49735a91-67e5-40aa-b949-9dd8a34a4328)
