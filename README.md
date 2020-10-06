@@ -17,3 +17,4 @@
 
 ## Let's connect online!
 [twitter🐦](twitter.com/lizziepika) | [instagram📸](https://instagram.com/lizziepika) | [linkedin👩🏻‍💼](linkedin.com/in/elsiegle) | [stackoverflow✍🏽](https://stackoverflow.com/users/5452371/lizziepika) | [twitch📹](https://twitch.tv/lizziepikachu) | [dev✍🏽](https://dev.to/lizziepika) | [storygraph📚](https://beta.thestorygraph.com/profile/49735a91-67e5-40aa-b949-9dd8a34a4328)
+[twitter🐦](twitter.com/lizziepika) | [instagram📸](instagram.com/lizziepika) | [linkedin👩🏻‍💼](https://linkedin.com/in/elsiegle) | [stackoverflow✍🏽](https://stackoverflow.com/users/5452371/lizziepika) | [twitch📹](https://twitch.tv/lizziepikachu) | [dev✍🏽](https://dev.to/lizziepika) | [storygraph📚](https://beta.thestorygraph.com/profile/49735a91-67e5-40aa-b949-9dd8a34a4328)
