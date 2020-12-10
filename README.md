@@ -1,4 +1,4 @@
-## 👋👩🏻‍💻Hi! Welcome to my GitHub Profile Page 🥰🎾🚴🏽‍♀️🏓
+## 👋👩🏻‍💻Hi! Welcome to my GitHub 🥰🎾🚴🏽‍♀️🏓
 
 👩🏻‍🔬I'm a devangelist @ [Twilio](https://twilio.com), studied computer science @ [Bryn Mawr](cs.brynmawr.edu), and previously interned @ Twilio, [PubNub](https://pubnub.com), and [Vea Fitness](https://www.vealife.com/).
 
