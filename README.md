@@ -7,7 +7,7 @@
 
 🎙🗣Past [speaking](https://www.slideshare.net/ElizabethLizzieSiegl), [teaching](https://ahoy.twilio.com/buildyourtwilioapp), [tutorials](https://www.twilio.com/blog/author/lsiegle).
 
-📹[Weekly Twitch show](https://twitch.tv/lizziepikachu) each Thurs. (chess on occasional Sundays)
+📹[Weekly Twitch show](https://twitch.tv/lizziepikachu) each Thurs. (chess sometimes on other days)
 
 💕,🏃‍♀️, matcha, Disney, Broadway, Zumba, && currently ML!
 
