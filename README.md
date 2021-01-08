@@ -1,13 +1,20 @@
 ## 👋👩🏻‍💻Welcome to my GitHub 🥰
 [![tweet](https://img.shields.io/twitter/url?label=share%20this%20page%21&style=social&url=https%3A%2F%2Fgithub.com%2Felizabethsiegle)](https://twitter.com/intent/tweet?text=Wowow%20check%20out%20this%20github%20profile%20readme:&url=https%3A%2F%2Fgithub.com%2Felizabethsiegle)
 
-👩🏻‍🔬devangelist @ [Twilio](https://twilio.com), computer science/🎾/🏓 [Bryn Mawr](cs.brynmawr.edu) alumna, ex-intern @ Twilio, [PubNub](https://pubnub.com), [Vea](https://www.vealife.com/).
+👩🏻‍🔬[Twilio](https://twilio.com) devangelist, computer science/🎾/🏓 [Bryn Mawr](cs.brynmawr.edu) alumna, ex-intern @ Twilio, [PubNub](https://pubnub.com), [Vea](https://www.vealife.com/).
 
-👩🏻‍🎓🎓[Senior thesis](https://elizabethsiegle.github.io/thesis): developed series of Django + iOS apps to compare methods of teaching emotions to people on the Autism spectrum.
+👩🏻‍🎓🎓[Senior thesis](https://elizabethsiegle.github.io/thesis): coded series of Django + iOS apps comparing methods of teaching emotions.
 
 🎙🗣Past [speaking](https://www.slideshare.net/ElizabethLizzieSiegl), [teaching](https://ahoy.twilio.com/buildyourtwilioapp), [tutorials](https://www.twilio.com/blog/author/lsiegle).
 
+📹[Weekly Twitch show](https://twitch.tv/lizziepikachu) each Thurs. (chess on occasional Sundays)
+
 💕,🏃‍♀️, matcha, Disney, Broadway, Zumba, && currently ML!
+
+📅 hackathon/event-organizer, community builder
+
+💌 [monthly newsletter](https://www.tinyletter.com/lizziepika)
+
 
 ![lizzie image](https://res.cloudinary.com/skillsmatter/image/upload/c_fill,w_200,h_200,g_face/v1547456630/dxi5bejyzygvmh0oauo4.jpg)
 
