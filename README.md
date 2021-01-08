@@ -1,4 +1,5 @@
 ## 👋👩🏻‍💻Hi! Welcome to my GitHub 🥰🎾🚴🏽‍♀️🏓
+![tweet](https://img.shields.io/twitter/url?label=share%20this%20page%21&style=social&url=https%3A%2F%2Fgithub.com%2Felizabethsiegle)
 
 👩🏻‍🔬I'm a devangelist @ [Twilio](https://twilio.com), studied computer science @ [Bryn Mawr](cs.brynmawr.edu), and previously interned @ Twilio, [PubNub](https://pubnub.com), and [Vea Fitness](https://www.vealife.com/).
 
@@ -6,7 +7,7 @@
 
 🎙🗣Past [speaking](https://www.slideshare.net/ElizabethLizzieSiegl), [teaching](https://ahoy.twilio.com/buildyourtwilioapp), [tutorials](https://www.twilio.com/blog/author/lsiegle).
 
-💖💕Loves 🎾, 🏓,🏃‍♀️, matcha, Disney, Broadway, Zumba, and currently machine learning!
+💕🎾, 🏓,🏃‍♀️, matcha, Disney, Broadway, Zumba, and currently machine learning!
 
 ![lizzie image](https://res.cloudinary.com/skillsmatter/image/upload/c_fill,w_200,h_200,g_face/v1547456630/dxi5bejyzygvmh0oauo4.jpg)
 
@@ -16,4 +17,6 @@
 - [Build a Twilio Video App in 9 Minutes](https://github.com/elizabethsiegle/twilioVideoWebChat9Mins) | [blog✍🏽](https://www.twilio.com/blog/build-a-video-app-javascript-twilio-cli-quickly)
 
 ## Let's connect online!
-[🐦twitter](https://twitter.com/lizziepika) | [📸instagram](https://instagram.com/lizziepika) | [💼linkedin](https://linkedin.com/in/elsiegle) | [💻stackoverflow](https://stackoverflow.com/users/5452371/lizziepika) | [📹twitch](https://twitch.tv/lizziepikachu) | [✍🏽dev](https://dev.to/lizziepika) | [📚storygraph](https://beta.thestorygraph.com/profile/49735a91-67e5-40aa-b949-9dd8a34a4328) && [📚goodreads](https://www.goodreads.com/user/show/13636951-lizzie) | [♔♕chess](https://www.chess.com/member/lizziepika)
+[![Twitter Follow](https://img.shields.io/twitter/follow/lizziepika?label=Follow&style=social)](https://twitter.com/lizziepika)
+
+[📸ig](https://www.instagram.com/lizziepika) | [💼linkedin](https://www.linkedin.com/in/elsiegle) | [💻stackoverflow](https://www.stackoverflow.com/users/5452371/lizziepika) | [📹twitch](https://twitch.tv/lizziepikachu) | [✍🏽dev](https://dev.to/lizziepika) | [📚storygraph](https://www.beta.thestorygraph.com/profile/49735a91-67e5-40aa-b949-9dd8a34a4328) && [📚goodreads](https://www.goodreads.com/user/show/13636951-lizzie) | [♔♕chess](https://www.chess.com/member/lizziepika)
