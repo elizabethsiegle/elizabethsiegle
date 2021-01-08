@@ -9,7 +9,7 @@
 
 📹[Weekly Twitch show](https://twitch.tv/lizziepikachu) each Thurs. (chess sometimes on other days)
 
-💕,🏃‍♀️, matcha, Disney, Broadway, Zumba, && currently ML!
+💕🏃‍♀️, matcha, Disney, Broadway, Zumba, && currently ML!
 
 📅 hackathon/event-organizer, community builder
 
