@@ -1,13 +1,13 @@
-## 👋👩🏻‍💻Hi! Welcome to my GitHub 🥰🎾🚴🏽‍♀️🏓
-![tweet](https://img.shields.io/twitter/url?label=share%20this%20page%21&style=social&url=https%3A%2F%2Fgithub.com%2Felizabethsiegle)
+## 👋👩🏻‍💻Welcome to my GitHub 🥰
+[![tweet](https://img.shields.io/twitter/url?label=share%20this%20page%21&style=social&url=https%3A%2F%2Fgithub.com%2Felizabethsiegle)](https://twitter.com/intent/tweet?text=Wowow%20check%20out%20this%20github%20profile%20readme:&url=https%3A%2F%2Fgithub.com%2Felizabethsiegle)
 
-👩🏻‍🔬I'm a devangelist @ [Twilio](https://twilio.com), studied computer science @ [Bryn Mawr](cs.brynmawr.edu), and previously interned @ Twilio, [PubNub](https://pubnub.com), and [Vea Fitness](https://www.vealife.com/).
+👩🏻‍🔬devangelist @ [Twilio](https://twilio.com), computer science/🎾/🏓 [Bryn Mawr](cs.brynmawr.edu) alumna, ex-intern @ Twilio, [PubNub](https://pubnub.com), [Vea](https://www.vealife.com/).
 
-👩🏻‍🎓🎓[Senior thesis](https://elizabethsiegle.github.io/thesis): developed series of Django apps and iOS app to compare methods of teaching emotions to people on the Autism spectrum.
+👩🏻‍🎓🎓[Senior thesis](https://elizabethsiegle.github.io/thesis): developed series of Django + iOS apps to compare methods of teaching emotions to people on the Autism spectrum.
 
 🎙🗣Past [speaking](https://www.slideshare.net/ElizabethLizzieSiegl), [teaching](https://ahoy.twilio.com/buildyourtwilioapp), [tutorials](https://www.twilio.com/blog/author/lsiegle).
 
-💕🎾, 🏓,🏃‍♀️, matcha, Disney, Broadway, Zumba, and currently machine learning!
+💕,🏃‍♀️, matcha, Disney, Broadway, Zumba, && currently ML!
 
 ![lizzie image](https://res.cloudinary.com/skillsmatter/image/upload/c_fill,w_200,h_200,g_face/v1547456630/dxi5bejyzygvmh0oauo4.jpg)
 
