@@ -9,7 +9,7 @@
 
 📹[Weekly Twitch show](https://twitch.tv/lizziepikachu) each Thurs. (chess sometimes on other days)
 
-💕🏃‍♀️, matcha, Disney, Broadway, Zumba, && currently ML!
+💕🏃‍♀️,🎾,🏐, gsw🏀, matcha, Disney, Broadway, yoga, && currently ML!
 
 📅 hackathon/event-organizer, community builder
 
@@ -22,8 +22,9 @@
 - [Analyze your year in texts with TensorFlow.js](https://github.com/elizabethsiegle/analyze-2019-with-tensorflow-twilio-texts) | [blog✍🏽](https://www.twilio.com/blog/how-positive-was-your-year-with-tensorflow-js-and-twilio)
 - [Loves me, loves me not: Classify texts with TensorFlow in Python](https://github.com/elizabethsiegle/Loves-me-loves-me-not-tensorflow-python-sms) | [blog✍🏽](https://www.twilio.com/blog/classify-texts-with-tensorflow-and-twilio-to-answer-loves-me-loves-me-not)
 - [Build a Twilio Video App in 9 Minutes](https://github.com/elizabethsiegle/twilioVideoWebChat9Mins) | [blog✍🏽](https://www.twilio.com/blog/build-a-video-app-javascript-twilio-cli-quickly)
+- [Mask or no mask? With Twilio Video, machine learning, and JavaScript](https://github.com/elizabethsiegle/twilio-video-mask-ml5)| [blog✍🏽](https://www.twilio.com/blog/mask-or-no-mask-twilio-video-ml-javascript)
 
 ## Let's connect online!
 [![Twitter Follow](https://img.shields.io/twitter/follow/lizziepika?label=Follow&style=social)](https://twitter.com/lizziepika)
 
-[📸ig](https://www.instagram.com/lizziepika) | [💼linkedin](https://www.linkedin.com/in/elsiegle) | [💻stackoverflow](https://www.stackoverflow.com/users/5452371/lizziepika) | [📹twitch](https://twitch.tv/lizziepikachu) | [✍🏽dev](https://dev.to/lizziepika) | [📚storygraph](https://www.beta.thestorygraph.com/profile/49735a91-67e5-40aa-b949-9dd8a34a4328) && [📚goodreads](https://www.goodreads.com/user/show/13636951-lizzie) | [♔♕chess](https://www.chess.com/member/lizziepika)
+[📸ig](https://www.instagram.com/lizziepika) | [💼linkedin](https://www.linkedin.com/in/elsiegle) | [💻stackoverflow](https://www.stackoverflow.com/users/5452371/lizziepika) | [📹twitch](https://twitch.tv/lizziepikachu) | [✍🏽dev](https://dev.to/lizziepika) | [📚goodreads](https://www.goodreads.com/user/show/13636951-lizzie) | [♔♕chess](https://www.chess.com/member/lizziepika)
