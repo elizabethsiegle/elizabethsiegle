@@ -24,6 +24,7 @@
 - [Loves me, loves me not: Classify texts with TensorFlow in Python](https://github.com/elizabethsiegle/Loves-me-loves-me-not-tensorflow-python-sms) | [blog✍🏽](https://www.twilio.com/blog/classify-texts-with-tensorflow-and-twilio-to-answer-loves-me-loves-me-not)
 - [Build a Twilio Video App in 9 Minutes](https://github.com/elizabethsiegle/twilioVideoWebChat9Mins) | [blog✍🏽](https://www.twilio.com/blog/build-a-video-app-javascript-twilio-cli-quickly)
 - [Mask or no mask? With Twilio Video, machine learning, and JavaScript](https://github.com/elizabethsiegle/twilio-video-mask-ml5)| [blog✍🏽](https://www.twilio.com/blog/mask-or-no-mask-twilio-video-ml-javascript)
+- [Object detection in a Twilio Serverless Video App with TensorFlow.js](https://github.com/elizabethsiegle/tfjs-obj-detection-twilio-video-serverless) | [blog✍](https://www.twilio.com/blog/object-detection-serverless-video-tensorflow-js) | [test it out](https://obj-det-tfjs-vid-6721-dev.twil.io/video.html)
 
 ## Let's connect online!
 [![Twitter Follow](https://img.shields.io/twitter/follow/lizziepika?label=Follow&style=social)](https://twitter.com/lizziepika)
