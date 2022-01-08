@@ -14,7 +14,7 @@
 
 📅 hackathon/event-organizer, community builder
 
-💌 [monthly newsletter](https://www.tinyletter.com/lizziepika)
+💌 [monthly newsletter](https://lizziepika.substack.com/)
 
 
 ![lizzie image](https://res.cloudinary.com/skillsmatter/image/upload/c_fill,w_200,h_200,g_face/v1547456630/dxi5bejyzygvmh0oauo4.jpg)
