@@ -1,6 +1,7 @@
 ## 👋👩🏻‍💻Welcome to my GitHub 🥰
 [![tweet](https://img.shields.io/twitter/url?label=share%20this%20page%21&style=social&url=https%3A%2F%2Fgithub.com%2Felizabethsiegle)](https://twitter.com/intent/tweet?text=Wowow%20check%20out%20this%20github%20profile%20readme:&url=https%3A%2F%2Fgithub.com%2Felizabethsiegle)
 #### Yes, I'm usually @lizziepika/ @lizziepikachu elsewhere on the web ¯\_(ツ)_/¯
+![queensjs lizzie image](https://res.cloudinary.com/skillsmatter/image/upload/c_fill,w_200,h_200,g_face/v1547456630/dxi5bejyzygvmh0oauo4.jpg)
 
 👩🏻‍🔬[Twilio](https://twilio.com) devangelist, computer science/🎾/🏓 [Bryn Mawr](cs.brynmawr.edu) alumna, ex-intern @ Twilio, [PubNub](https://pubnub.com), [Vea](https://www.vealife.com/).
 
@@ -12,12 +13,11 @@
 
 💕🏃‍♀️,🎾,🏐, gsw🏀, matcha, Disney, Broadway, yoga, && currently ML!
 
-📅 hackathon/event-organizer, community builder
+📅 [hackathon](https://twitter.com/lizziepika/status/1023356419473469441)/[event-organizer](https://medium.com/@lizziepika/she-code-day-2016-4be611b92e82), community builder
 
 💌 [monthly newsletter](https://lizziepika.substack.com/)
 
-
-![lizzie image](https://res.cloudinary.com/skillsmatter/image/upload/c_fill,w_200,h_200,g_face/v1547456630/dxi5bejyzygvmh0oauo4.jpg)
+<img src="https://pbs.twimg.com/media/D8fxHgFVsAAvYss?format=jpg&name=small" alt = "devrelcon lizzie image" width="250" height="200" />
 
 ## Select projects
 - [Analyze your year in texts with TensorFlow.js](https://github.com/elizabethsiegle/analyze-2019-with-tensorflow-twilio-texts) | [blog✍🏽](https://www.twilio.com/blog/how-positive-was-your-year-with-tensorflow-js-and-twilio)
