@@ -1,6 +1,6 @@
 ## 👋👩🏻‍💻Welcome to my GitHub 🥰
 [![tweet](https://img.shields.io/twitter/url?label=share%20this%20page%21&style=social&url=https%3A%2F%2Fgithub.com%2Felizabethsiegle)](https://twitter.com/intent/tweet?text=Wowow%20check%20out%20this%20github%20profile%20readme:&url=https%3A%2F%2Fgithub.com%2Felizabethsiegle)
-#### Yes, I'm usually @lizziepika/ @lizziepikachu elsewhere on the web ¯\_(ツ)_/¯
+#### Yes, I'm usually @lizziepika/ @lizziepikachu elsewhere on the web ¯\_(ツ)_/¯ (I like programming, people, and Pikachu.)
 ![queensjs lizzie image](https://res.cloudinary.com/skillsmatter/image/upload/c_fill,w_200,h_200,g_face/v1547456630/dxi5bejyzygvmh0oauo4.jpg)
 
 👩🏻‍🔬[Twilio](https://twilio.com) devangelist, computer science/🎾/🏓 [Bryn Mawr](cs.brynmawr.edu) alumna, ex-intern @ Twilio, [PubNub](https://pubnub.com), [Vea](https://www.vealife.com/).
