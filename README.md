@@ -3,7 +3,7 @@
 #### Yes, I'm usually @lizziepika/ @lizziepikachu elsewhere on the web ¯\_(ツ)_/¯ (I like programming, people, and Pikachu.)
 ![queensjs lizzie image](https://res.cloudinary.com/skillsmatter/image/upload/c_fill,w_200,h_200,g_face/v1547456630/dxi5bejyzygvmh0oauo4.jpg)
 
-👩🏻‍🔬[Twilio](https://twilio.com) devangelist, computer science/🎾/🏓 [Bryn Mawr](cs.brynmawr.edu) alumna, ex-intern @ Twilio, [PubNub](https://pubnub.com), [Vea](https://www.vealife.com/).
+👩🏻‍🔬[Twilio](https://twilio.com) devangelist, computer science/🎾/🏓 [Bryn Mawr](https://cs.brynmawr.edu) alumna, ex-intern @ Twilio, [PubNub](https://pubnub.com), [Vea](https://www.vealife.com/).
 
 👩🏻‍🎓🎓[Senior thesis](https://elizabethsiegle.github.io/thesis): coded series of Django + iOS apps comparing methods of teaching emotions.
 
