@@ -17,6 +17,8 @@
 
 💌 [monthly newsletter](https://lizziepika.substack.com/)
 
+![https://github-readme-stats.vercel.app/api?username=elizabethsiegle](https://github-readme-stats.vercel.app/api?username=elizabethsiegle)
+
 <img src="https://pbs.twimg.com/media/D8fxHgFVsAAvYss?format=jpg&name=small" alt = "devrelcon lizzie image" width="250" height="200" />
 
 ## Select projects
