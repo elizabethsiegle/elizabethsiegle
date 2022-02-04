@@ -3,15 +3,15 @@
 #### Yes, I'm usually @lizziepika/ @lizziepikachu elsewhere on the web ¯\_(ツ)_/¯ (I like programming, people, and Pikachu.)
 ![queensjs lizzie image](https://res.cloudinary.com/skillsmatter/image/upload/c_fill,w_200,h_200,g_face/v1547456630/dxi5bejyzygvmh0oauo4.jpg)
 
-👩🏻‍🔬[Twilio](https://twilio.com) devangelist, computer science/🎾/🏓 [Bryn Mawr](https://cs.brynmawr.edu) alumna, ex-intern @ Twilio, [PubNub](https://pubnub.com), [Vea](https://www.vealife.com/).
+👩🏻‍🔬[Twilio](https://twilio.com) devangelist, Bryn Mawr [computer science](https://cs.brynmawr.edu)/🎾/🏓 alumna, ex-intern @ Twilio, [PubNub](https://pubnub.com), [Vea](https://www.vealife.com/).
 
 👩🏻‍🎓🎓[Senior thesis](https://elizabethsiegle.github.io/thesis): coded series of Django + iOS apps comparing methods of teaching emotions.
 
 🎙🗣Past [speaking](https://www.slideshare.net/ElizabethLizzieSiegl), [teaching](https://ahoy.twilio.com/buildyourtwilioapp), [tutorials](https://www.twilio.com/blog/author/lsiegle).
 
-📹[Weekly Twitch show](https://twitch.tv/lizziepikachu) each Thurs. (chess sometimes on other days)
+📹[Weekly Twitch show](https://twitch.tv/lizziepikachu) each Thurs. (chess♟♛ sometimes on other days)
 
-💕🏃‍♀️,🎾,🏐, gsw🏀, matcha, Disney, Broadway, yoga, && currently ML!
+💕🏃‍♀️,🎾,🏐,🚴🏻‍♀️, gsw🏀, matcha, Disney, Broadway, yoga, && currently ML!
 
 📅 [hackathon](https://twitter.com/lizziepika/status/1023356419473469441)/[event-organizer](https://medium.com/@lizziepika/she-code-day-2016-4be611b92e82), community builder
 
