@@ -5,7 +5,7 @@
 
 👩🏻‍🔬[Twilio](https://twilio.com) devangelist, Bryn Mawr [computer science](https://cs.brynmawr.edu)/🎾/🏓 alumna, ex-intern @ Twilio, [PubNub](https://pubnub.com), [Vea](https://www.vealife.com/).
 
-👩🏻‍🎓🎓[Senior thesis](https://elizabethsiegle.github.io/thesis): coded series of Django + iOS apps comparing methods of teaching emotions.
+👩🏻‍🎓🎓[Senior thesis](https://elizabethsiegle.github.io/thesis): coded series of Django + iOS apps comparing methods of teaching emotions to people on the Autism spectrum.
 
 🎙🗣Past [speaking](https://www.slideshare.net/ElizabethLizzieSiegl), [teaching](https://ahoy.twilio.com/buildyourtwilioapp), [tutorials](https://www.twilio.com/blog/author/lsiegle).
 
@@ -18,8 +18,6 @@
 💌 [monthly newsletter](https://lizziepika.substack.com/)
 
 ![https://github-readme-stats.vercel.app/api?username=elizabethsiegle](https://github-readme-stats.vercel.app/api?username=elizabethsiegle)
-
-<img src="https://pbs.twimg.com/media/D8fxHgFVsAAvYss?format=jpg&name=small" alt = "devrelcon lizzie image" width="250" height="200" />
 
 ## Select projects
 - [Analyze your year in texts with TensorFlow.js](https://github.com/elizabethsiegle/analyze-2019-with-tensorflow-twilio-texts) | [blog✍🏽](https://www.twilio.com/blog/how-positive-was-your-year-with-tensorflow-js-and-twilio)
