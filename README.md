@@ -32,3 +32,5 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/lizziepika?label=Follow&style=social)](https://twitter.com/lizziepika)
 
 [📸ig](https://www.instagram.com/lizziepika) | [💼linkedin](https://www.linkedin.com/in/elsiegle) | [💻stackoverflow](https://www.stackoverflow.com/users/5452371/lizziepika) | [📹twitch](https://twitch.tv/lizziepikachu) | [✍🏽dev](https://dev.to/lizziepika) | [📚goodreads](https://www.goodreads.com/user/show/13636951-lizzie) | [♔♕chess](https://www.chess.com/member/lizziepika)
+
+![](https://countrush-prod.azurewebsites.net/l/badge/?repository=elizabethsiegle.elizabethsiegle)
