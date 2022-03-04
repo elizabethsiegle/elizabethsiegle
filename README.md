@@ -1,7 +1,8 @@
 ## 👋👩🏻‍💻Welcome to my GitHub 🥰
 [![tweet](https://img.shields.io/twitter/url?label=share%20this%20page%21&style=social&url=https%3A%2F%2Fgithub.com%2Felizabethsiegle)](https://twitter.com/intent/tweet?text=Wowow%20check%20out%20this%20github%20profile%20readme:&url=https%3A%2F%2Fgithub.com%2Felizabethsiegle)
 #### Yes, I'm usually @lizziepika/ @lizziepikachu elsewhere on the web ¯\_(ツ)_/¯ (I like programming, people, and Pikachu.)
-![queensjs lizzie image](https://res.cloudinary.com/skillsmatter/image/upload/c_fill,w_200,h_200,g_face/v1547456630/dxi5bejyzygvmh0oauo4.jpg)
+![detect images in twilio video app with tensorflow.js](https://github.com/elizabethsiegle/tfjs-obj-detection-twilio-video-serverless/raw/main/bbox.gif)
+<!-- ![queensjs lizzie image](https://res.cloudinary.com/skillsmatter/image/upload/c_fill,w_200,h_200,g_face/v1547456630/dxi5bejyzygvmh0oauo4.jpg) -->
 
 [![Linkedin Badge](https://img.shields.io/badge/-Elizabeth%20%22Lizzie%20%22Siegle-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/elsiegle/)](https://www.linkedin.com/in/elsiegle/)
 [![Stack Overflow Badge](https://img.shields.io/badge/-lizziepika-black?style=flat&logo=Stack%20Overflow&logoColor=orange&link=https://stackoverflow.com/users/5452371/lizziepika)](https://stackoverflow.com/users/5452371/lizziepika)
