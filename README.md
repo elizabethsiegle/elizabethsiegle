@@ -32,6 +32,7 @@
 - [Analyze your year in texts with TensorFlow.js](https://github.com/elizabethsiegle/analyze-2019-with-tensorflow-twilio-texts) | [blog✍🏽](https://www.twilio.com/blog/how-positive-was-your-year-with-tensorflow-js-and-twilio)
 - [Loves me, loves me not: Classify texts with TensorFlow in Python](https://github.com/elizabethsiegle/Loves-me-loves-me-not-tensorflow-python-sms) | [blog✍🏽](https://www.twilio.com/blog/classify-texts-with-tensorflow-and-twilio-to-answer-loves-me-loves-me-not)
 - [Twordle: Wordle over SMS](https://github.com/elizabethsiegle/wordleSMS) | [blog✍🏽](https://www.twilio.com/blog/build-wordle-like-sms-game-serverless)
+- [Wordle Solver](https://github.com/elizabethsiegle/wordle-solver-p2-ty-craig) | [blog✍](https://www.twilio.com/blog/wordle-solver-serverless-studio-sms) 
 - [Mask or no mask? With Twilio Video, machine learning, and JavaScript](https://github.com/elizabethsiegle/twilio-video-mask-ml5)| [blog✍🏽](https://www.twilio.com/blog/mask-or-no-mask-twilio-video-ml-javascript) | [test it out](https://mask-video-3981-dev.twil.io/video.html)
 - [Object detection in a Twilio Serverless Video App with TensorFlow.js](https://github.com/elizabethsiegle/tfjs-obj-detection-twilio-video-serverless) | [blog✍](https://www.twilio.com/blog/object-detection-serverless-video-tensorflow-js) | [test it out](https://obj-det-tfjs-vid-6721-dev.twil.io/video.html)
 
