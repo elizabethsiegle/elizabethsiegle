@@ -11,6 +11,7 @@
 [![Instagram Badge](https://img.shields.io/badge/-lizziepika-8a3ab9?style=flat&logo=instagram&logoColor=pink&link=https://www.instagram.com/lizziepika)](https://www.instagram.com/lizziepika)
 [![Goodreads Badge](https://img.shields.io/badge/-lizziepika-e9e5cd?style=flat&logo=goodreads&logoColor=gray&link=https://www.goodreads.com/user/show/13636951-lizzie)](https://www.goodreads.com/user/show/13636951-lizzie)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elizabethsiegle&layout=compact)](https://github.com/elizabethsiegle/github-readme-stats)
 
 👩🏻‍🔬[Twilio](https://twilio.com) devangelist, Bryn Mawr [computer science](https://cs.brynmawr.edu)/🎾/🏓 alumna, ex-intern @ Twilio, [PubNub](https://pubnub.com), [Vea](https://www.vealife.com/).
 
