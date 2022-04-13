@@ -13,7 +13,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elizabethsiegle&layout=compact)](https://github.com/elizabethsiegle/github-readme-stats)
 
-👩🏻‍🔬[Twilio](https://twilio.com) devangelist, Bryn Mawr [computer science](https://cs.brynmawr.edu)/🎾/🏓 alumna, ex-intern @ Twilio, [PubNub](https://pubnub.com), [Vea](https://www.vealife.com/).
+👩🏻‍🔬[Twilio](https://twilio.com) devangelist, [Bryn Mawr computer science](https://cs.brynmawr.edu)/🎾/🏓 alumna, ex-intern @ Twilio, [PubNub](https://pubnub.com), [Vea](https://www.vealife.com/).
 
 👩🏻‍🎓🎓[Senior thesis](https://elizabethsiegle.github.io/thesis): coded series of Django + iOS apps comparing methods of teaching emotions to people on the Autism spectrum.
 
@@ -21,9 +21,9 @@
 
 📹[Weekly Twitch show](https://twitch.tv/lizziepikachu) each Thurs. (chess♟♛ sometimes on other days)
 
-👩🏻‍💻 : I mainly do web dev (😍node.js), some Python for ML, and used to do iOS. I'm interested in dev tools, APIs, serverless, and general learning!
+👩🏻‍💻 : mainly web dev (😍node.js), some Python for ML, and used to do iOS. Interested in APIs, serverless, and dev tools!
 
-💕🏃‍♀️,🎾,🏐,🚴🏻‍♀️, gsw🏀, matcha, Disney, Broadway, yoga
+💕🏃‍♀️,🎾,🏓,🏐,🚴🏻‍♀️, gsw🏀, matcha, Disney, Broadway, yoga
 
 📅 [hackathon](https://twitter.com/lizziepika/status/1023356419473469441)/[event-organizer](https://medium.com/@lizziepika/she-code-day-2016-4be611b92e82), community builder
 
