@@ -19,7 +19,7 @@
 
 🎙🗣Past [speaking](https://www.slideshare.net/ElizabethLizzieSiegl), [teaching](https://ahoy.twilio.com/buildyourtwilioapp), [tutorials](https://www.twilio.com/blog/author/lsiegle).
 
-📹[Weekly Twitch show](https://twitch.tv/lizziepikachu) each Thurs. (chess♟♛ sometimes on other days)
+📹[Twitch show](https://twitch.tv/lizziepikachu) Mon/Wed. (chess♟♛ sometimes on other days)
 
 👩🏻‍💻 : mainly web dev (😍node.js), some Python for ML, and used to do iOS. Interested in APIs, serverless, and dev tools!
 
