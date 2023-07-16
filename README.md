@@ -41,9 +41,13 @@
 - [Mask or no mask? With Twilio Video, machine learning, and JavaScript](https://github.com/elizabethsiegle/twilio-video-mask-ml5)| [blog✍🏽](https://www.twilio.com/blog/mask-or-no-mask-twilio-video-ml-javascript) | [test it out](https://mask-video-3981-dev.twil.io/video.html)
 - [Object detection in a Twilio Serverless Video App with TensorFlow.js](https://github.com/elizabethsiegle/tfjs-obj-detection-twilio-video-serverless) | [blog✍](https://www.twilio.com/blog/object-detection-serverless-video-tensorflow-js) | [test it out](https://obj-det-tfjs-vid-6721-dev.twil.io/video.html)
 <div id="imgs">
-<img src="https://pbs.twimg.com/media/D8fwwgAV4AQrTxC?format=jpg&name=small" alt = "devrelcon lizzie image" width="400" height="400" />
-<img src="https://pbs.twimg.com/profile_banners/758370024/1662529299/1500x500" alt="caribbean dev conf 2018 speaking" width="580" height="380" />
+<img src="https://pbs.twimg.com/media/D8fwwgAV4AQrTxC?format=jpg&name=small" alt = "devrelcon lizzie image" width="380" height="380" />
+<img src="https://pbs.twimg.com/profile_banners/758370024/1662529299" alt="caribbean dev conf 2018 speaking" width="580" height="380" />
+<img src="https://github.com/elizabethsiegle/elizabethsiegle/assets/8932430/0ead1d19-81dc-4ac1-8cab-d68f92f8b478" alt="mchacks stage demo" width="380" height="500" />
+<img src="https://github.com/elizabethsiegle/elizabethsiegle/assets/8932430/2beb1fce-1925-4460-acee-ce4e70c57ba4" alt="hackdavis stage demo" width="380" height="500" />
+
 </div>
 
 
 ![](https://countrush-prod.azurewebsites.net/l/badge/?repository=elizabethsiegle.elizabethsiegle)
+
