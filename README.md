@@ -25,7 +25,7 @@
 
 👩🏻‍💻 : mainly web dev (😍node.js), some Python for ML, and used to do iOS. Interested in APIs, serverless, and dev tools!
 
-💕🏃‍♀️,🎾,🏓,🏐,🚴🏻‍♀️, gsw🏀, matcha, Disney, Broadway, yoga
+💕🏃‍♀️,🎾,🏓,🏐,🚴🏻‍♀️, gsw🏀, matcha, Disney, Broadway, yoga, urbanism🏡, public transit🚌
 
 📅 [hackathon](https://twitter.com/lizziepika/status/1023356419473469441)/[event-organizer](https://medium.com/@lizziepika/she-code-day-2016-4be611b92e82), community builder
 
