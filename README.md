@@ -15,6 +15,7 @@
 [![Goodreads Badge](https://img.shields.io/badge/-lizziepika-e9e5cd?style=flat&logo=goodreads&logoColor=gray&link=https://www.goodreads.com/user/show/13636951-lizzie)](https://www.goodreads.com/user/show/13636951-lizzie)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elizabethsiegle&layout=compact)](https://github.com/elizabethsiegle/github-readme-stats)
+<img src="https://pbs.twimg.com/media/F6SAqh0aoAA1O2i?format=jpg&name=medium" alt="hacking @ replicate ai arts and crafts hackathon" width="200" height="285" />
 
 👩🏻‍🔬[Twilio](https://twilio.com) devangelist, [Bryn Mawr computer science](https://cs.brynmawr.edu)/🎾/🏓 alumna, ex-intern @ Twilio, [PubNub](https://pubnub.com), [Vea](https://www.vealife.com/).
 
