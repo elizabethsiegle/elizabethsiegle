@@ -2,7 +2,9 @@
 [![tweet](https://img.shields.io/twitter/url?label=share%20this%20page%21&style=social&url=https%3A%2F%2Fgithub.com%2Felizabethsiegle)](https://twitter.com/intent/tweet?text=Wowow%20check%20out%20this%20github%20profile%20readme:&url=https%3A%2F%2Fgithub.com%2Felizabethsiegle)        
 
 ![detect images in twilio video app with tensorflow.js](https://github.com/elizabethsiegle/tfjs-obj-detection-twilio-video-serverless/raw/main/bbox.gif)
-<img src="https://github.com/elizabethsiegle/elizabethsiegle/assets/8932430/08bec0c5-b803-42e6-b84d-4b62c9e74e8e" alt="twilio lizzie sms celebrity high school" width="250" height="350" />
+<img src="https://github.com/elizabethsiegle/elizabethsiegle/assets/8932430/08bec0c5-b803-42e6-b84d-4b62c9e74e8e" alt="twilio lizzie sms celebrity high school" width="170" height="300" />
+<img src="https://github.com/elizabethsiegle/elizabethsiegle/assets/8932430/d4d832c8-b76f-4975-94bb-b324a255e6b6" alt="conuhacks demo talk" width="310" height="350" />
+
 
 
 <!-- ![queensjs lizzie image](https://res.cloudinary.com/skillsmatter/image/upload/c_fill,w_200,h_200,g_face/v1547456630/dxi5bejyzygvmh0oauo4.jpg) -->
