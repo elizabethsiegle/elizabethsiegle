@@ -18,6 +18,7 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elizabethsiegle&layout=compact)](https://github.com/elizabethsiegle/github-readme-stats)
 <img src="https://pbs.twimg.com/media/F6SAqh0aoAA1O2i?format=jpg&name=medium" alt="hacking @ replicate ai arts and crafts hackathon" width="200" height="285" />
+<img src="https://github.com/elizabethsiegle/elizabethsiegle/assets/8932430/4bcbba11-55de-40d0-aa54-eb935fe21670" alt="accelerateSF hackathon demo on the news" width="300" height="285" />
 
 👩🏻‍🔬[Twilio](https://twilio.com) devangelist, [Bryn Mawr computer science](https://cs.brynmawr.edu)/🎾/🏓 alumna, ex-intern @ Twilio, [PubNub](https://pubnub.com), [Vea](https://www.vealife.com/).
 
@@ -48,7 +49,6 @@
 <img src="https://pbs.twimg.com/profile_banners/758370024/1662529299" alt="caribbean dev conf 2018 speaking" width="510" height="285" />
 <img src="https://github.com/elizabethsiegle/elizabethsiegle/assets/8932430/0ead1d19-81dc-4ac1-8cab-d68f92f8b478" alt="mchacks stage demo" width="310" height="450" />
 </div>
-
 
 ![](https://countrush-prod.azurewebsites.net/l/badge/?repository=elizabethsiegle.elizabethsiegle)
 
