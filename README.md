@@ -3,9 +3,7 @@
 
 ![detect images in twilio video app with tensorflow.js](https://github.com/elizabethsiegle/tfjs-obj-detection-twilio-video-serverless/raw/main/bbox.gif)
 <img src="https://github.com/elizabethsiegle/elizabethsiegle/assets/8932430/08bec0c5-b803-42e6-b84d-4b62c9e74e8e" alt="twilio lizzie sms celebrity high school" width="170" height="300" />
-<img src="https://github.com/elizabethsiegle/elizabethsiegle/assets/8932430/d4d832c8-b76f-4975-94bb-b324a255e6b6" alt="conuhacks demo talk" width="310" height="350" />
-
-
+<img src="https://github.com/elizabethsiegle/elizabethsiegle/assets/8932430/d4d832c8-b76f-4975-94bb-b324a255e6b6" alt="conuhacks demo talk" width="240" height="300" />
 
 <!-- ![queensjs lizzie image](https://res.cloudinary.com/skillsmatter/image/upload/c_fill,w_200,h_200,g_face/v1547456630/dxi5bejyzygvmh0oauo4.jpg) -->
 #### Usually @lizziepika/ @lizziepikachu on the web ¯\_(ツ)_/¯ (I like programming, people, and Pikachu.)
@@ -17,7 +15,6 @@
 [![Goodreads Badge](https://img.shields.io/badge/-lizziepika-e9e5cd?style=flat&logo=goodreads&logoColor=gray&link=https://www.goodreads.com/user/show/13636951-lizzie)](https://www.goodreads.com/user/show/13636951-lizzie)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elizabethsiegle&layout=compact)](https://github.com/elizabethsiegle/github-readme-stats)
-<img src="https://pbs.twimg.com/media/F6SAqh0aoAA1O2i?format=jpg&name=medium" alt="hacking @ replicate ai arts and crafts hackathon" width="200" height="285" />
 <img src="https://github.com/elizabethsiegle/elizabethsiegle/assets/8932430/4bcbba11-55de-40d0-aa54-eb935fe21670" alt="accelerateSF hackathon demo on the news" width="300" height="285" />
 
 👩🏻‍🔬[Twilio](https://twilio.com) devangelist, [Bryn Mawr computer science](https://cs.brynmawr.edu)/🎾/🏓 alumna, ex-intern @ Twilio, [PubNub](https://pubnub.com), [Vea](https://www.vealife.com/).
