@@ -44,7 +44,6 @@
 - [Object detection in a Twilio Serverless Video App with TensorFlow.js](https://github.com/elizabethsiegle/tfjs-obj-detection-twilio-video-serverless) | [blog✍](https://www.twilio.com/blog/object-detection-serverless-video-tensorflow-js) | [test it out](https://obj-det-tfjs-vid-6721-dev.twil.io/video.html)
 <div id="imgs">
 <img src="https://pbs.twimg.com/profile_banners/758370024/1662529299" alt="caribbean dev conf 2018 speaking" width="510" height="285" />
-<img src="https://github.com/elizabethsiegle/elizabethsiegle/assets/8932430/0ead1d19-81dc-4ac1-8cab-d68f92f8b478" alt="mchacks stage demo" width="310" height="450" />
 </div>
 
 ![](https://countrush-prod.azurewebsites.net/l/badge/?repository=elizabethsiegle.elizabethsiegle)
