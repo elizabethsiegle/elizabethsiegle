@@ -17,7 +17,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=elizabethsiegle&layout=compact)](https://github.com/elizabethsiegle/github-readme-stats)
 <img src="https://github.com/elizabethsiegle/elizabethsiegle/assets/8932430/4bcbba11-55de-40d0-aa54-eb935fe21670" alt="accelerateSF hackathon demo on the news" width="300" height="285" />
 
-👩🏻‍🔬[Twilio](https://twilio.com) devangelist, [Bryn Mawr computer science](https://cs.brynmawr.edu)/🎾/🏓 alumna, ex-intern @ Twilio, [PubNub](https://pubnub.com), [Vea](https://www.vealife.com/).
+👩🏻‍🔬[Cloudflare](https://cloudflare.com) developer advocate, [Bryn Mawr computer science](https://cs.brynmawr.edu)/🎾/🏓 alumna, ex-intern @ Twilio, [PubNub](https://pubnub.com), [Vea](https://www.vealife.com/).
 
 👩🏻‍🎓🎓[Senior thesis](https://elizabethsiegle.github.io/thesis): coded series of Django + iOS apps comparing methods of teaching emotions to people on the Autism spectrum.
 
