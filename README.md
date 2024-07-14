@@ -1,4 +1,4 @@
-## ![lizziepika](https://user-images.githubusercontent.com/8932430/177914384-1ef5c65d-903f-4ff3-a04d-31ebb9bd5e10.png)   Hi, I'm Lizzie! Welcome to my GitHub 🥰👋👩🏻‍💻
+## ![lizziepika](https://user-images.githubusercontent.com/8932430/177914384-1ef5c65d-903f-4ff3-a04d-31ebb9bd5e10.png)   Hi, I'm Lizzie! I make a lot of demo apps. Welcome to my GitHub 🥰👋👩🏻‍💻
 [![tweet](https://img.shields.io/twitter/url?label=share%20this%20page%21&style=social&url=https%3A%2F%2Fgithub.com%2Felizabethsiegle)](https://twitter.com/intent/tweet?text=Wowow%20check%20out%20this%20github%20profile%20readme:&url=https%3A%2F%2Fgithub.com%2Felizabethsiegle)        
 
 ![detect images in twilio video app with tensorflow.js](https://github.com/elizabethsiegle/tfjs-obj-detection-twilio-video-serverless/raw/main/bbox.gif)
